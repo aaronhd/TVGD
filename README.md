@@ -13,7 +13,7 @@ Python 2.7.14
 
 TensorFlow 1.12
 
-Opencv-python
+opencv-python
 
 
 
